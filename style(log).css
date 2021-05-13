@@ -74,7 +74,7 @@ HEADER
 }
 
 .login-form .header span {
-	font-size: 0.977vw;
+	font-size: 1.177vw;
 	line-height: 0.933vw;
 	color: #5d7d7e;
 	text-shadow: 1px 1px 0 rgba(256,256,256,1.0);
@@ -150,7 +150,7 @@ FOOTER
 	padding: 1.76% 3.74%;
 
 	position: relative;
-	left: -13%;
+	left: -16%;
 	transform: translate(-100%, 0);
 	
 	
